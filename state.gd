@@ -10,8 +10,3 @@ var head_position
 var body_positions = []
 
 
-const GRID_SIZE = 30
-const GRID_PADDING = 1
-var window_size : Vector2 = Vector2(500, 500)
-var rectangle_size : Vector2 = window_size / GRID_SIZE
-
