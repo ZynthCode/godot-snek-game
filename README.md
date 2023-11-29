@@ -4,7 +4,7 @@ Example code using mostly GDScript.
 
 ![](docs/snek_game_example.png)
 
-![](docs/snek_game_game_over_example.png.png)
+![](docs/snek_game_game_over_example.png)
 
 ## MIT License
 
